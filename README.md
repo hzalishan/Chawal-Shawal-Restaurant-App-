@@ -85,9 +85,4 @@ To allow communication between devices:
 - Turn it **OFF** for Private and Public networks (or add a specific Inbound Rule for Port `9999`).
 
 ---
-
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-**Developed with ❤️ by [Apka Naam Yahan]**
+**Developed Hafiz Ali Shan**
