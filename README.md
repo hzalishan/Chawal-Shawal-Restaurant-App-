@@ -4,6 +4,10 @@ A real-time, multi-device restaurant management solution built with **Python**, 
 
 ---
 
+![Waiter App](waiter)
+
+---
+
 ## 🏗️ System Architecture
 
 The project follows a **Client-Server Architecture**:
