@@ -1,4 +1,4 @@
-# 🍛 Chawal Shawal - Restaurant Management System
+# 🍛 Chawal Shawal - Restaurant App
 
 A real-time, multi-device restaurant management solution built with **Python**, utilizing **Socket Programming** for communication and **SQLite** for data persistence. This system connects Waiters directly to the Kitchen staff over a Local Area Network (LAN).
 
