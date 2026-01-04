@@ -4,7 +4,7 @@ A real-time, multi-device restaurant management solution built with **Python**, 
 
 ---
 
-![Waiter App](waiter)
+![Waiter App](waiter.png)
 
 ---
 
